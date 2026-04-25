@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**sage-horizon2309/sage-horizon2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **sage-horizon2309**, a principal engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I write code while drinking coffee
+- 🤔 Exploring new technologies
+
+## Tech
+
+`Axum` `Python` `JavaScript` `Haskell`
+
+---
+
+_Dog person._
